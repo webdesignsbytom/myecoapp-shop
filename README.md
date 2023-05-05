@@ -1,6 +1,7 @@
 # myecoapp-shop
 
 A page be built for a group charity project to raise money for renewable energy using the internet as a platfrom.
+To save time and because i dont have a large display project using Bootstrap yet, i will be using a large amount in this project.
 
 The Frontend can be view at [myecoapp-shop]()
 
@@ -28,7 +29,7 @@ Server deployment with Vercel @ [backend-link]()
 
 App developed with:
 
-Frontend: React, JavaScript, Tailwind, Axios, validator, react-native
+Frontend: React, JavaScript, Tailwind, Bootstrap, Axios, validator
 
 Backend: Express, Prisma, JavaScript, express-handlebars
 
